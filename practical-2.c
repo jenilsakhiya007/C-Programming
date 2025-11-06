@@ -1,6 +1,6 @@
 #include<stdio.h>
-void main()
-{
+void main() //Name : Jenil Sakhiya
+{           //ID :25CE104
 int l,b,p,a;
 l=70;
 b=90;
@@ -9,5 +9,6 @@ p=2*(l+b);
 printf("area= %d\n", a);
 printf("peramiter= %d", p);
 }
+
 
 
