@@ -10,3 +10,4 @@ printf("area= %d\n", a);
 printf("peramiter= %d", p);
 }
 
+
