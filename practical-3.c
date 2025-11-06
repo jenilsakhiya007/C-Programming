@@ -1,4 +1,6 @@
 #include<stdio.h>
+//Name :Jenil Sakhiya
+//ID  : 25CE104
 int main(){
     float BMI,height,weight;
     printf("enter weight=");
@@ -22,3 +24,4 @@ int main(){
     }
         return 0;
     }
+
